@@ -1,3 +1,4 @@
+<img width="1708" height="857" alt="Screenshot 2026-04-28 155855" src="https://github.com/user-attachments/assets/3a5716e8-6895-433d-8617-575325e37fac" />
 # 🛡️ Nexus Guard Enterprise: Credit Card Fraud Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -94,3 +95,11 @@ The UI allows Analysts to dynamically slide the **Risk Threshold** (e.g., `0.95`
 
 ## 👨‍💻 Built By
 *A Machine Learning Engineer passionate about MLOps, Data Engineering, and Full-Stack AI Product Development.*
+
+<img width="1708" height="857" alt="Screenshot 2026-04-28 155855" src="https://github.com/user-attachments/assets/372897eb-5100-405d-8fa9-c847a7bd68e5" />
+
+<img width="837" height="680" alt="Screenshot 2026-04-29 093605" src="https://github.com/user-attachments/assets/9057f9bf-b550-42a9-82f9-7db0998e527c" />
+
+<img width="1282" height="827" alt="Screenshot 2026-04-28 160357" src="https://github.com/user-attachments/assets/f27e8031-c753-4bf2-98d3-c0d6e435c179" />
+
+
