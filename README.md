@@ -1,4 +1,3 @@
-<img width="1708" height="857" alt="Screenshot 2026-04-28 155855" src="https://github.com/user-attachments/assets/3a5716e8-6895-433d-8617-575325e37fac" />
 # 🛡️ Nexus Guard Enterprise: Credit Card Fraud Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
